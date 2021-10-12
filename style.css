@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(225, 100%, 94%);
+    background-image: url(/images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    width: 25%;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 480px) {
+    .container {
+        width: 90%;
+    }
+}
+
+.content {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.content h1 {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-size: 1.50rem;
+    font-weight: 900;
+}
+
+.content p {
+    color: gray;
+    font-size: 1rem;
+    margin-bottom: 25px;
+}
+
+.price {
+    width: 100%;
+    background-color: hsl(0, 0%, 95%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 15px;
+
+}
+
+.price a {
+    color: #382AE1;
+    font-weight: 700;
+    padding-right: 15px;
+}
+
+.price a:hover {
+    color: #766CF1;
+    text-decoration: none;
+}
+
+.plan {
+    display: flex;
+    padding: 10px;
+}
+
+.plan ul {
+    padding-left: 15px;
+}
+
+#price {
+    color: gray;
+}
+
+.btn {
+    color: white;
+    background-color: #382AE1;
+    width: 100%;
+    margin-top: 25px;
+    padding: 10px;
+    font-size: 0.9rem;
+    font-weight: 700;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: 300ms;
+}
+
+.btn:hover {
+    background-color: #766CF1;
+}
+
+#cancel {
+    color: gray;
+    font-size: 0.8rem;
+    text-decoration: none;
+    font-weight: 900;
+    margin-bottom: 40px;
+    transition: 300ms;
+}
+
+#cancel:hover {
+    color: black;
+}
