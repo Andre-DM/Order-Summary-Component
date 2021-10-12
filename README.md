@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://tinyurl.com/yhnsd45o)
+(https://tinyurl.com/yhnsd45o)
 
 ### Links
 
