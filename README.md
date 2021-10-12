@@ -7,7 +7,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -26,16 +25,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/solution-with-css-flexbox-1jKIjo20N)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Visual Studio Code
 
 ### What I learned
 
