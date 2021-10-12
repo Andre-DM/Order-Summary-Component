@@ -21,11 +21,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](/Solution.png)
+![](https://tinyurl.com/yhnsd45o)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/solution-with-css-flexbox-1jKIjo20N)
+- Solution URL: [Here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/solution-with-css-flexbox-1jKIjo20N)
 
 ### Built with
 
